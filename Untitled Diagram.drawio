@@ -1,1 +1,120 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T03:07:49.949Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" version="15.5.6" etag="6EOlSmOMI-vCoHYVWD17" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-20T03:55:17.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="2S4QSsy267IhJF5GuDa4" version="15.5.6" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1255" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="nb_gaPslLwNlG_SoKyud-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nb_gaPslLwNlG_SoKyud-0" target="nb_gaPslLwNlG_SoKyud-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nb_gaPslLwNlG_SoKyud-0" target="nb_gaPslLwNlG_SoKyud-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-0" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;acquire&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;名称：acquire&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;策略要素：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;事件：&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0313FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nb_gaPslLwNlG_SoKyud-1" target="nb_gaPslLwNlG_SoKyud-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-1" value="名称：&lt;br&gt;表达式" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3333;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nb_gaPslLwNlG_SoKyud-2" target="nb_gaPslLwNlG_SoKyud-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-2" value="名称：链路名称2&lt;br&gt;表达式：k=v&amp;amp;&amp;amp;k2=v2" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-4" value="mid=[“2159400000000010”]&#xa; &amp;&amp; tntInstId=“ALIPW3BR”" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="100" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-6" value="业务链路" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="426" y="60" width="56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-7" value="function=[“alipay.ams.payments.pay”]&#xa; &amp;&amp;&#xa; productCode=“AGREEMENT_PAYMENT”" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="164" y="420" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-10" value="原子业务" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="60" width="56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0313FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nb_gaPslLwNlG_SoKyud-11" target="nb_gaPslLwNlG_SoKyud-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;strokeColor=#0313FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nb_gaPslLwNlG_SoKyud-11" target="nb_gaPslLwNlG_SoKyud-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-11" value="&lt;span&gt;名称:iecpprod_createAndPay&lt;br&gt;&lt;/span&gt;策略要素：&lt;br&gt;模型：&lt;br&gt;事件：&lt;br&gt;场景：" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="565" y="90" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nb_gaPslLwNlG_SoKyud-12" target="nb_gaPslLwNlG_SoKyud-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-12" value="&lt;span&gt;名称: iaqc_create&lt;br&gt;&lt;/span&gt;策略要素：&lt;br&gt;模型：&lt;br&gt;事件：事件名称&lt;br&gt;场景：" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="260" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nb_gaPslLwNlG_SoKyud-13" target="nb_gaPslLwNlG_SoKyud-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nb_gaPslLwNlG_SoKyud-13" target="nb_gaPslLwNlG_SoKyud-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-13" value="&lt;b&gt;名称&lt;/b&gt;:iexpprod_ams_agreement_pay&lt;br&gt;策略要素：messageRequestOpengwRequestModel.function&lt;br&gt;模型：messageRequestOpngwRequestModel, gnTransactionOrderModel,acquireBaseModel&lt;br&gt;事件：AMS代扣端到端核对事件&lt;br&gt;场景：场景名称A，场景名称B，" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="450" width="330" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-18" value="业务链路" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="426" y="330" width="56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-19" value="&lt;span&gt;名称: FundControl_PAY_CARD&lt;br&gt;&lt;/span&gt;策略要素：&lt;br&gt;模型：&lt;br&gt;事件：&lt;br&gt;场景：" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1110" y="90" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-20" value="&lt;p style=&quot;font-size: 10px&quot;&gt;joinRelation:&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 10px&quot;&gt;&amp;nbsp;&lt;span style=&quot;font-size: 10px&quot;&gt;iecpprodOrder.iecppdOrderId=acquireBaseModel.merchantTransId&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="190" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fontColor=#000000;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nb_gaPslLwNlG_SoKyud-23" target="nb_gaPslLwNlG_SoKyud-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fontColor=#000000;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nb_gaPslLwNlG_SoKyud-23" target="nb_gaPslLwNlG_SoKyud-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-23" value="&lt;b&gt;alias:&lt;/b&gt; messageRequestOpngwRequestModel&lt;br&gt;&lt;b&gt;name&lt;/b&gt;: iexpprod.message_request_opengw_request" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1091" y="471.25" width="300" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-25" value="&lt;b&gt;场景名称&lt;/b&gt;:&amp;nbsp;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;amsAgreementPayLossTransaction&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;场景条件：&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="900" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-26" value="&lt;b&gt;name:&lt;/b&gt;&amp;nbsp;productCode&lt;br&gt;&lt;b&gt;fieldType&lt;/b&gt;: String&lt;br&gt;&lt;b&gt;assembler&lt;/b&gt;: &lt;span style=&quot;font-size: 9.8pt ; background-color: rgb(255 , 255 , 255)&quot;&gt;getFromJson(iexpprod.message_request_opengw_request.body, &quot;$.productCode&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 9.8pt ; background-color: rgb(255 , 255 , 255)&quot;&gt;)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="541" width="390" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-27" value="&lt;b&gt;name:&lt;/b&gt; function&lt;br&gt;&lt;b&gt;fieldType&lt;/b&gt;: String&lt;br&gt;&lt;b&gt;assembler&lt;/b&gt;: iexpprod.message_request_opengw_request.traceId" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="380" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-30" value="模型: 模型名称" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1200" y="435" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-31" value="业务要素" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1590" y="340" width="56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-33" value="&lt;b&gt;约束名称&lt;/b&gt;:&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;AMS代扣掉单监控&lt;/span&gt;&lt;br&gt;&lt;b&gt;约束类型：&lt;/b&gt;正确性&lt;br&gt;&lt;b&gt;描述类型：&lt;/b&gt;代码描述" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1091" y="680" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-34" value="&lt;b&gt;约束名称&lt;/b&gt;:&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;AMS代扣掉单监控&lt;/span&gt;&lt;br&gt;&lt;b&gt;约束类型：&lt;/b&gt;正确性&lt;br&gt;&lt;b&gt;描述类型：&lt;/b&gt;结构化描述" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1091" y="830" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-35" value="&lt;b&gt;约束名称&lt;/b&gt;:&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;AMS代扣掉单监控&lt;/span&gt;&lt;br&gt;&lt;b&gt;约束类型：&lt;/b&gt;一致性&lt;br&gt;&lt;b&gt;描述类型：&lt;/b&gt;结构化描述" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1091" y="980" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nb_gaPslLwNlG_SoKyud-36" value="&lt;b&gt;约束名称&lt;/b&gt;:&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;AMS代扣掉单监控&lt;/span&gt;&lt;br&gt;&lt;b&gt;约束类型：&lt;/b&gt;时效性&lt;br&gt;&lt;b&gt;描述类型：&lt;/b&gt;结构化描述" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1091" y="1140" width="330" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
