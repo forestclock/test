@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T08:29:04.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="qor9lt0JGtRbsTJFcKVz" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T08:39:25.937Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ifW7HK5_yHfCOBnq2d_m" version="15.5.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2705" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,25 +77,25 @@
           <mxGeometry x="650" y="930" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nb_gaPslLwNlG_SoKyud-26" value="&lt;b&gt;name:&lt;/b&gt;&amp;nbsp;productCode&lt;br&gt;&lt;b&gt;fieldType&lt;/b&gt;: String&lt;br&gt;&lt;b&gt;assembler&lt;/b&gt;: &lt;span style=&quot;font-size: 9.8pt ; background-color: rgb(255 , 255 , 255)&quot;&gt;getFromJson(iexpprod.message_request_opengw_request.body, &quot;$.productCode&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 9.8pt ; background-color: rgb(255 , 255 , 255)&quot;&gt;)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1523" y="911" width="390" height="99" as="geometry" />
+          <mxGeometry x="1460" y="911" width="390" height="99" as="geometry" />
         </mxCell>
         <mxCell id="nb_gaPslLwNlG_SoKyud-27" value="&lt;b&gt;name:&lt;/b&gt; function&lt;br&gt;&lt;b&gt;fieldType&lt;/b&gt;: String&lt;br&gt;&lt;b&gt;assembler&lt;/b&gt;: iexpprod.message_request_opengw_request.traceId" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1523" y="750" width="390" height="80" as="geometry" />
+          <mxGeometry x="1460" y="750" width="390" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nb_gaPslLwNlG_SoKyud-31" value="业务要素" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1673" y="710" width="56" height="30" as="geometry" />
+          <mxGeometry x="1610" y="710" width="56" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nb_gaPslLwNlG_SoKyud-33" value="&lt;b&gt;约束名称&lt;/b&gt;:&amp;nbsp;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;AMS代扣前报价行业和AC金额核对&lt;/span&gt;&lt;br&gt;&lt;b&gt;约束类型：&lt;/b&gt;正确性&lt;br&gt;&lt;b&gt;描述类型：&lt;/b&gt;代码描述&lt;br&gt;&lt;u&gt;&lt;font color=&quot;#3333ff&quot;&gt;详情&lt;/font&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="840" width="330" height="100" as="geometry" />
+          <mxGeometry x="1080" y="840" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nb_gaPslLwNlG_SoKyud-34" value="&lt;b&gt;约束名称&lt;/b&gt;: 约束名称&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;***&lt;/span&gt;&lt;br&gt;&lt;b&gt;约束类型：&lt;/b&gt;正确性&lt;br&gt;&lt;b&gt;描述类型：&lt;/b&gt;结构化描述&lt;br&gt;&lt;u&gt;&lt;font color=&quot;#3333ff&quot;&gt;详情&lt;/font&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="960" width="330" height="100" as="geometry" />
+          <mxGeometry x="1080" y="960" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nb_gaPslLwNlG_SoKyud-35" value="&lt;b&gt;约束名称&lt;/b&gt;:&amp;nbsp;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;AMS代扣后报价行业和AC金额核对&lt;/span&gt;&lt;br&gt;&lt;b&gt;约束类型：&lt;/b&gt;正确性&lt;br&gt;&lt;b&gt;描述类型：&lt;/b&gt;代码描述&lt;br&gt;&lt;u&gt;&lt;font color=&quot;#3333ff&quot;&gt;详情&lt;/font&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1076" y="1120" width="330" height="100" as="geometry" />
+          <mxGeometry x="1076" y="1120" width="274" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nb_gaPslLwNlG_SoKyud-36" value="&lt;b&gt;约束名称&lt;/b&gt;:&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;约束名称***&lt;/span&gt;&lt;br&gt;&lt;b&gt;约束类型：&lt;/b&gt;时效性&lt;br&gt;&lt;b&gt;描述类型：&lt;/b&gt;结构化描述&lt;br&gt;&lt;u&gt;&lt;font color=&quot;#3333ff&quot;&gt;详情&lt;/font&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1076" y="1250" width="330" height="100" as="geometry" />
+          <mxGeometry x="1076" y="1250" width="274" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nb_gaPslLwNlG_SoKyud-38" value="原子业务" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1177" y="50" width="56" height="30" as="geometry" />
@@ -291,7 +291,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nb_gaPslLwNlG_SoKyud-107" value="&lt;b&gt;名称&lt;/b&gt;:iexpprod_ams_agreement_pay&lt;br&gt;&lt;b&gt;策略要素&lt;/b&gt;：messageRequestOpengwRequestModel.function&lt;br&gt;&lt;b&gt;模型&lt;/b&gt;：messageRequestOpngwRequestModel, gnTransactionOrderModel,acquireBaseModel&lt;br&gt;&lt;b&gt;事件&lt;/b&gt;：AMS代扣端到端核对事件&lt;br&gt;&lt;b&gt;场景&lt;/b&gt;：场景名称A，场景名称B，&lt;br&gt;&lt;u&gt;&lt;font color=&quot;#3333ff&quot;&gt;详情&lt;/font&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-30" y="1020" width="330" height="130" as="geometry" />
+          <mxGeometry y="1020" width="330" height="130" as="geometry" />
         </mxCell>
         <mxCell id="nb_gaPslLwNlG_SoKyud-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#3333FF;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nb_gaPslLwNlG_SoKyud-109" target="nb_gaPslLwNlG_SoKyud-35">
           <mxGeometry relative="1" as="geometry" />
