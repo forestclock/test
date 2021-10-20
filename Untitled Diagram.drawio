@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T06:41:54.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ddXoYuEcWgK9ovbN2OAr" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T06:42:54.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="isAvq4rTK-n9bZ8ka-Al" version="15.5.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2493" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2318" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -280,7 +280,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nb_gaPslLwNlG_SoKyud-103" value="&lt;b&gt;名称:&lt;/b&gt; acquire&lt;br&gt;&lt;b&gt;策略要素：&lt;/b&gt;acquirePayOrder.payStatus&lt;br&gt;&lt;b&gt;模型&lt;/b&gt;：iecpprodOrder, acquirePayOrder&lt;br&gt;&lt;b&gt;事件：&lt;/b&gt;用户在行业产品下单(BBCER00026829)&lt;br&gt;&lt;b&gt;场景&lt;/b&gt;：通用场景&lt;br&gt;&lt;u&gt;&lt;font color=&quot;#3333ff&quot;&gt;详情&lt;/font&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nb_gaPslLwNlG_SoKyud-103" value="&lt;b&gt;名称:&lt;/b&gt; acquire&lt;br&gt;&lt;b&gt;策略要素：&lt;/b&gt;mid, tntInstId, siteMode,……&lt;br&gt;&lt;b&gt;模型&lt;/b&gt;：iecpprodOrder, acquirePayOrder&lt;br&gt;&lt;b&gt;事件：&lt;/b&gt;用户在行业产品下单(BBCER00026829)&lt;br&gt;&lt;b&gt;场景&lt;/b&gt;：通用场景&lt;br&gt;&lt;u&gt;&lt;font color=&quot;#3333ff&quot;&gt;详情&lt;/font&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-330" y="200" width="340" height="100" as="geometry" />
         </mxCell>
       </root>
